@@ -17,11 +17,14 @@ In this project, I learned:
 - Mixins and how they differ from superclasses.
 - Streams.
 - ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data.
-<table>
-  <tr>
-    <td><img src="demo1.png" width=270 height=480></td>
-    <td><img src="demo2.png" width=270 height=480></td>
-    <td><img src="deomo3.png" width=270 height=480></td>
-  </tr>
- </table>
+- How to use Firebase Cloud Firestore to store and retrieve data
+
+
+<p align="center">
+  <img alt="Light" src="demo1.png" width="10%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="demo2.png" width="10%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="demo2.png" width="10%">
+</p>
+
