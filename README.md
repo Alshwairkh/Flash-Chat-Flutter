@@ -21,10 +21,10 @@ In this project, I learned:
 
 
 <p align="center">
-  <img alt="Light" src="demo1.png" width="10%">
+  <img alt="Light" src="demo1.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo2.png" width="10%">
+  <img alt="Dark" src="demo2.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo2.png" width="10%">
+  <img alt="Dark" src="demo2.png" width="30%">
 </p>
 
