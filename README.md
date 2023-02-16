@@ -24,5 +24,5 @@ In this project, I learned:
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="demo2.png" width="31%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo3.png" width="31%">
+  <img alt="light" src="demo3.png" width="31%">
 </p>
