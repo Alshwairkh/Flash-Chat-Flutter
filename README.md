@@ -19,9 +19,10 @@ In this project, I learned:
 - ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data.
 
-
 <p align="center">
-  <img alt="Light" src="demo1.png" width="35%">
+  <img alt="Light" src="demo1.png" width="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="demo2.png" width="33%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="demo3.png" width="33%">
 </p>
-
