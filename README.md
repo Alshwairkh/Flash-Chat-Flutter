@@ -20,9 +20,9 @@ In this project, I learned:
 - How to use Firebase Cloud Firestore to store and retrieve data.
 
 <p align="center">
-  <img alt="Light" src="demo1.png" width="33%">
+  <img alt="Light" src="demo1.png" width="31%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo2.png" width="33%">
+  <img alt="Dark" src="demo2.png" width="31%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo3.png" width="33%">
+  <img alt="Dark" src="demo3.png" width="31%">
 </p>
