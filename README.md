@@ -18,11 +18,15 @@ In this project, I learned:
 - Streams.
 - ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data.
-
-<p align="center">
-  <img alt="Light" src="demo1.png" width="31%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo2.png" width="31%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="light" src="demo3.png" width="31%">
-</p>
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/demo1.png" width=270 height=480></td>
+    <td><img src="screenshots/demo2.png" width=270 height=480></td>
+    <td><img src="screenshots/deomo3.png" width=270 height=480></td>
+  </tr>
+ </table>
